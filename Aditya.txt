@@ -1,4 +1,4 @@
 This is my file
 no,this is my file
- git config --global user.email "manideeplucky2003@gmail.com"
-  git config --global user.name "manideep"
+git config --global user.email "manideeplucky2003@gmail.com"
+git config --global user.name "manideep"
