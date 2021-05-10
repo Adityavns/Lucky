@@ -1,4 +1,6 @@
-//This is new stack file
+#include<stdio.h>
 
-// aLDJFHAKSJDFHKSADF
-// asdasdfs
+int main(){
+    printf("hello world\n");
+    printf("sum is %d",3+2);
+}
